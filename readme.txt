@@ -1,0 +1,3 @@
+This is a design for a 3D printable set of drawers for organising small bits and pieces, such as electronics components. The design is parametric, so you can alter the size of cell of the grid, and you can also easily produce drawers that are a number of grid units high or wide.
+
+You'll need to print two matching frame_face pieces per cell you want. You'll also need to print two posts for every four-way intersection of cell corners, one for every two-way intersection of cell corners, such as on the edges of the stack, and one edge_post for every corner of the stack. For example, for a simple 3x2 design as shown in my photo, you'll need ten post pieces, and four edge_post pieces, twelve frame_face pieces, and six drawer pieces.
